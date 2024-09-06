@@ -20,3 +20,5 @@ Gave up. I'm not a native English speaker, and this wordplay problem is quite tr
 The txt file shows some idea of matching.
 ## August 2024: Tree-edge Triage
 Solved and passed (too busy this month so I did it on the last day).
+## September 2024: Fences 2
+Solved and passed.
