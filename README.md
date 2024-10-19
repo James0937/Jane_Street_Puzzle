@@ -22,3 +22,5 @@ The txt file shows some idea of matching.
 Solved and passed (too busy this month so I did it on the last day and don't record the process).
 ## September 2024: Fences 2
 Solved and passed.
+## October 2024: Knight Moves 6
+Solved and passed.
