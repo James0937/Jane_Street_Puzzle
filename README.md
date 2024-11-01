@@ -1,5 +1,6 @@
 # Jane_Street_Puzzle
 The history of my puzzle-solving journey. Started in January 2024.
+
 Current record: **Solved 8 of 10**
 
 # History
