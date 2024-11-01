@@ -1,5 +1,6 @@
 # Jane_Street_Puzzle
 The history of my puzzle-solving journey. Started in January 2024.
+Current record: **Solved 8 of 10**
 
 # History
 ## January 2024: Some F Squares
@@ -19,7 +20,7 @@ Solved and passed.
 Gave up. I'm not a native English speaker, and this wordplay problem is quite tricky to me.
 The txt file shows some idea of matching.
 ## August 2024: Tree-edge Triage
-Solved and passed (too busy this month so I did it on the last day and don't record the process).
+Solved and passed (too busy this month so I did it on the last day. All processes are on draft paper, so I don't record them).
 ## September 2024: Fences 2
 Solved and passed.
 ## October 2024: Knight Moves 6
