@@ -23,4 +23,4 @@ Solved and passed (too busy this month so I did it on the last day and don't rec
 ## September 2024: Fences 2
 Solved and passed.
 ## October 2024: Knight Moves 6
-Solved and passed.
+Solved and passed. Not hard DFS problem but I don't know the concept of knight moves initially lol.
