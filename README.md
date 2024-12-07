@@ -26,3 +26,5 @@ Solved and passed (too busy this month so I did it on the last day. All processe
 Solved and passed.
 ## October 2024: Knight Moves 6
 Solved and passed. Not hard DFS problem but I don't know the concept of knight moves initially lol.
+## November 2024: Beside the Point
+Solved and passed.
